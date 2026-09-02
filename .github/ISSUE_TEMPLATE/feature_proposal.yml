@@ -6,3 +6,10 @@ body:
       value: |
         Issues for feature requests and contributions are now posted at [mysql/mysql-server](https://github.com/mysql/mysql-server and not here.   
 
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: I undertand that this issue will be closed.
+      options:
+        - label:  I will file my proposal in mysql-server repo.
+          required: true
