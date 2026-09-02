@@ -1,5 +1,5 @@
 name: New Feature Proposal
-description: Deprecated: Issues for feature requests and contributions are now posted at [mysql/mysql-server](https://github.com/mysql/mysql-server and not here.
+description: "Deprecated: Issues for feature requests and contributions are now posted at [mysql/mysql-server](https://github.com/mysql/mysql-server and not here."
 body:
   - type: markdown
     attributes:
